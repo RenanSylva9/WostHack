@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Made in BRAZIL" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a>
-<a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-2.1-green.svg?style=flat-square"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Versão" src="https://img.shields.io/badge/Versão-0.1-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
