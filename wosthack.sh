@@ -223,7 +223,7 @@ echo -e "         \e[96mATUALIZAÇÃO ESTÁ ACONTECENDO, POR FAVOR, AGUARDE UM T
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/noob-hackers/infect 2> /dev/null; do 
+while git clone https://github.com/RenanSylva9/WostHack 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
